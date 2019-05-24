@@ -1,0 +1,2 @@
+# mybatis-generator
+mybatis的mapper自动生成工具
